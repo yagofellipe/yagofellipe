@@ -1,7 +1,7 @@
 ### Fala galera, eu sou o Yago 👋
 
 
-- 📫 Se quiser mandar um alô, só me chamar!
+- 📫 Se quiser mandar um alô, só me chamar.
 
 <div>
 <a href="https://github.com/yagofellipe">
