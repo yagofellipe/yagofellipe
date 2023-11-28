@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a software engineering student at école 42|Rio and deeply passionate about mobile development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yagofellipe&label=Profile%20views&color=0e75b6&style=flat" alt="yagofellipe" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
