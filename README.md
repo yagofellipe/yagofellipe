@@ -1,4 +1,4 @@
-<img src="https://static-00.iconduck.com/assets.00/kotlin-icon-512x512-0o0lfw0b.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" min-width="300px" max-width="300px" width="300px" align="right">
 <h1 align="center">Hi 👋, I'm Yago Fellipe</h1>
 
 <h3 align="center">I'm a software engineering student at école 42|Rio and deeply passionate about mobile development.</h3>
